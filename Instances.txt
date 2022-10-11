@@ -1,3 +1,3 @@
 Sets I III and IV can be found at: http://dimacs.rutgers.edu/programs/challenge/vrp/vrpsd/
 
-For obtaining Set II, please contact us by email.
+For obtaining Set II, please refer to savrp_materials
